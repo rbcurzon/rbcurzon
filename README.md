@@ -7,12 +7,12 @@
 I'm a passionate software developer interested in web development, data science, and open-source projects. I enjoy learning new technologies and improving my skills by working on challenging projects.
 
 - 🔭 I’m currently working on improving my skills in data science.
-- 🌱 I’m currently learning advanced machine learning algorithms.
+- 🌱 I’m currently learning machine learning.
 - 👯 I’m looking to collaborate on open-source projects related to web development and data science.
 - 🤔 I’m looking for help with mastering Kubernetes.
-- 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [Ronald.curzon@example.com](mailto:Ronald.curzon@example.com)
-- ⚡ Fun fact: I love hiking and exploring new places.
+[comment]: <> - 💬 Ask me about Python, JavaScript, and web development.
+[comment]: <> - 📫 How to reach me: [Ronald.curzon@example.com](mailto:Ronald.curzon@example.com)
+[comment]: <> - ⚡ Fun fact: I love hiking and exploring new places.
 
 ## Languages and Tools
 
