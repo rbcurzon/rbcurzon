@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ronald B. Curzon</h1>
+<h1 align="center">Hi 👋, I'm Ronald</h1>
 <h3 align="center">A Computer Science student passionate about Web Development.</h3>
 
 - 🌱 I’m currently learning **Springboot**
