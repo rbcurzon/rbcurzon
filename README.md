@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **curzonronald@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/tsuvi57t8q45](https://flowcv.com/resume/tsuvi57t8q45)
+- 📄 Know about my experiences [View Simple Portfolio](https://portfolio-szve.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
