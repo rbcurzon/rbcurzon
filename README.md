@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronald</h1>
-<h3 align="center">A Computer Science student passionate about Web Development.</h3>
+<h3 align="center">I am passionate about Web Development.</h3>
 
 - 🌱 I’m currently learning **Springboot**
 
